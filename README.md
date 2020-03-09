@@ -4,7 +4,7 @@ IDE pycharm
 
 各个模块详情：
 
-alien_invasion  --> 主程序模块\b
+alien_invasion  --> 主程序模块
 alien           --> 外星人模块
 bullet          --> 子弹模块
 button          --> 定义游戏开始界面play按钮
